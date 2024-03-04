@@ -15,7 +15,6 @@ Project in real work simulation:
 
 When Only 4 cars green LED on: 
 ![Screenshot (139)](https://github.com/Ibrahim-Hussain1/Car-Park-Design-/assets/161763368/c64c6e3d-09e6-4d89-bc60-0104b5ef4a83)
-
-When Full read LED on: 
+When car park full read LED on: 
 ![Screenshot (136)](https://github.com/Ibrahim-Hussain1/Car-Park-Design-/assets/161763368/2e805f26-a779-40a6-b8ed-9ad78385ed4a)
 
