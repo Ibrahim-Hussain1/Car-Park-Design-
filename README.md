@@ -2,7 +2,6 @@
 Desing concepts: 
 ![carpark](https://github.com/Ibrahim-Hussain1/Car-Park-Design-/assets/161763368/580e92b4-9d10-4414-8cc2-397c37272fdd)
 ![carpark1](https://github.com/Ibrahim-Hussain1/Car-Park-Design-/assets/161763368/81b8296a-135b-4774-bafd-8337ff351c7b)
-![carpark2](https://github.com/Ibrahim-Hussain1/Car-Park-Design-/assets/161763368/e66d983a-04e6-481f-96c7-1e77b86453a4)
 
 Final Design Prototype Simulation: 
 
